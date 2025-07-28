@@ -165,4 +165,5 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
+Project URL: https://roadmap.sh/projects/markdown-note-taking-app
 
